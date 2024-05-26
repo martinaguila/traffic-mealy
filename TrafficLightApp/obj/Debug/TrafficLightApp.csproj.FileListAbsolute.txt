@@ -1,0 +1,9 @@
+C:\Users\martin aguila\source\repos\TrafficLightApp\TrafficLightApp\obj\Debug\TrafficLightApp.csproj.AssemblyReference.cache
+C:\Users\martin aguila\source\repos\TrafficLightApp\TrafficLightApp\obj\Debug\TrafficLightApp.Properties.Resources.resources
+C:\Users\martin aguila\source\repos\TrafficLightApp\TrafficLightApp\obj\Debug\TrafficLightApp.csproj.GenerateResource.cache
+C:\Users\martin aguila\source\repos\TrafficLightApp\TrafficLightApp\obj\Debug\TrafficLightApp.csproj.CoreCompileInputs.cache
+C:\Users\martin aguila\source\repos\TrafficLightApp\TrafficLightApp\bin\Debug\TrafficLightApp.exe.config
+C:\Users\martin aguila\source\repos\TrafficLightApp\TrafficLightApp\bin\Debug\TrafficLightApp.exe
+C:\Users\martin aguila\source\repos\TrafficLightApp\TrafficLightApp\bin\Debug\TrafficLightApp.pdb
+C:\Users\martin aguila\source\repos\TrafficLightApp\TrafficLightApp\obj\Debug\TrafficLightApp.exe
+C:\Users\martin aguila\source\repos\TrafficLightApp\TrafficLightApp\obj\Debug\TrafficLightApp.pdb
